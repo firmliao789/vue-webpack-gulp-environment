@@ -1,0 +1,12 @@
+npm init
+
+npm install vue --save
+
+npm install webpack webpack-dev-server vue-loader vue-html-loader vue-template-compiler css-loader vue-style-loader vue-hot-reload-api babel-loader babel-core babel-plugin-transform-runtime babel-preset-es2015 babel-runtime@5 html-webpack-plugin --save-dev
+
+
+npm install webpack-dev-middleware webpack-hot-middleware --save-dev
+
+npm install express --save-dev
+
+http://localhost:3333/app/index/index.html
